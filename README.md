@@ -1,6 +1,7 @@
 # Send data over ICMP
 
-> **IMPORTANT**: This script has been written years ago, before Python type-checking become popular. It's highly unmaintained and propably doesn't work well anymore. After all it gives a nice view of ICMP communication.
+> [!WARNING]  
+> This script has been written years ago, before Python type-checking become popular. It's highly unmaintained and propably doesn't work well anymore. After all it gives a nice view of ICMP communication.
 
 Useless (or not ( ͡° ͜ʖ ͡°)) class for sending and receiving data over ICMP. Hobby project to just learn more about ICMP structure and socket API.
 
